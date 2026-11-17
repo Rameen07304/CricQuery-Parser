@@ -1,0 +1,4 @@
+REJECTED
+Syntax error at line 1: found 'SHOW', expected LIST
+Syntax error at line 1: found 'SHOW', expected NOT, (, or stat
+Syntax error at line 1: found 'LIST', expected end of input

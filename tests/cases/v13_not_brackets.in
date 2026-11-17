@@ -1,0 +1,1 @@
+LIST NOT ( runs > 5 OR wickets < 3 ) SHOW name

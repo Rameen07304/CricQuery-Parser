@@ -1,0 +1,22 @@
+Q
+  LIST
+  C
+    A
+      N
+        runs
+        >
+        1
+      AND
+      N
+        wickets
+        >
+        2
+      AND
+      N
+        matches
+        >
+        3
+  SHOW
+  F
+    G
+      name

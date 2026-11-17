@@ -1,0 +1,1 @@
+LIST runs > 1 AND wickets > 1 AND matches > 1 OR average > 1 OR runs < 9 AND NOT wickets = 4 SHOW name

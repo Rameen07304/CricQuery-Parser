@@ -1,0 +1,4 @@
+REJECTED
+Syntax error at line 1: found '10', expected relop (<, >, =)
+Syntax error at line 1: found 'SHOW', expected number
+Syntax error at line 1: found 'SHOW', expected )

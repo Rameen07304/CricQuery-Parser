@@ -1,0 +1,3 @@
+LIST runs > 500
+AND wickets < 10
+SHOW name

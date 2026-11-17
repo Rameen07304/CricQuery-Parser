@@ -1,0 +1,5 @@
+REJECTED
+Syntax error at line 1: found '$', expected LIST
+Syntax error at line 1: found '$', expected NOT, (, or stat
+Syntax error at line 1: found '$', expected SHOW
+Syntax error at line 1: found '$', expected name or stat

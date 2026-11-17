@@ -1,0 +1,1 @@
+LIST runs > 500 AND NOT wickets < 10 SHOW name , average

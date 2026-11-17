@@ -1,0 +1,1 @@
+LIST runs > 5 OR wickets > 2 AND NOT matches < 9 SHOW name , runs

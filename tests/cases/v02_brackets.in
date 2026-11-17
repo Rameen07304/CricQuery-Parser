@@ -1,0 +1,1 @@
+LIST ( matches > 50 OR average > 40 ) SHOW name
